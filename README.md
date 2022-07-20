@@ -1,4 +1,4 @@
-# Informatievisualisatie
+# Data Visualisation
 
 ## Description
 
